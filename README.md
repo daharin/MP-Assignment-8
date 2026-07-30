@@ -1,14 +1,16 @@
 # Handwritten Digit Recognition using Artificial Neural Networks (ANN)
 
-**Author:** Akshat Garg  
+**Author:** Pranhavee Tyagi
 
-**Registration Number:** 23BCE10641 
+**Registration Number:** 23BCE11740
 
-**Application Number:** IN26011052
 
-**Batch Number:** 1A
+**Application Number:** IN26009567
 
-**Email ID:** akshat.23bce10641@vitbhopal.ac.in  
+
+**Batch Number:** 2B
+
+**Email ID:** pranhavee.23bce11740@vitbhopal.ac.in
 
 ## Objective
 The objective of this project is to develop an Artificial Neural Network (ANN) using TensorFlow/Keras to classify handwritten digits (0–9) from the MNIST dataset to automate postal code recognition[cite: 2].
